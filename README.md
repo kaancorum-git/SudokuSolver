@@ -6,3 +6,7 @@ Using Backtracking algorithm and python GUI(pygame)
 
 # Taking Notes
 ![alt text](https://github.com/kaancorum-git/SudokuSolver/blob/main/take%20notes.jpeg)
+
+# Deletion
+![alt text](https://github.com/kaancorum-git/SudokuSolver/blob/main/todelete.jpeg)
+![alt text](https://github.com/kaancorum-git/SudokuSolver/blob/main/deleted.jpeg)
