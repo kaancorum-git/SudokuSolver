@@ -9,4 +9,5 @@ Using Backtracking algorithm and python GUI(pygame)
 
 # Deletion
 ![alt text](https://github.com/kaancorum-git/SudokuSolver/blob/main/todelete.jpeg)
+
 ![alt text](https://github.com/kaancorum-git/SudokuSolver/blob/main/deleted.jpeg)
